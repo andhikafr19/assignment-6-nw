@@ -5,7 +5,6 @@
     public $name;
     public $color;
 
-    // Methods
     public function setName($name)
     {
       $this->name = $name;
